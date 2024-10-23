@@ -39,7 +39,7 @@ This project was developed in **Apache NetBeans 22** and is a **Maven project** 
 
 ----
 
-This is for N = 50 for GA, however the highest I have tested is N = 1000. Additionally sometimes it does not return a solution.
+This is for N = 50 for GA, however the highest I have tested is N = 1000, that gave a solution. Additionally sometimes it does not return a solution.
 
 ![Game GUI Screenshot](screenshots/GA_50.png)
 
