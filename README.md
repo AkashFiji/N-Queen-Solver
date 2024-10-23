@@ -31,7 +31,7 @@ This project was developed in **Apache NetBeans 22** and is a **Maven project** 
 
 ## Screenshots:
 
-- **Game GUI**
+- **Chess GUI**
   
   This is for N = 15 only for BT, the higher the N size will accumulate for the time taken to get a solution.
   
