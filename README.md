@@ -25,8 +25,7 @@ This project was developed in **Apache NetBeans 22** and is a **Maven project** 
 - Ensure that you open this folder in the directory where you saved the project files.
 
 ## Additional File:
-
-- **`GraphGA.java`** is an extra file created for analyzing the Genetic Algorithm. This file was developed for research purposes and is **not part of the assessed assignment**.
+- **`nqueens_EmphiricalResults.csv`** contains analysis of the algorithm for N = 50, however Back Tracking Algorithm crashed at N = 33.
 
 ---
 
@@ -34,8 +33,9 @@ This project was developed in **Apache NetBeans 22** and is a **Maven project** 
 
 - **Game GUI**  
   ![Game GUI Screenshot](screenshots/BT_15.png)
+  test
 ![Game GUI Screenshot](screenshots/GA_50.png)
-
+test
 - **BT vs GA Analysis**  
   ![Genetic Algorithm Screenshot](screenshots/race.png)
   
