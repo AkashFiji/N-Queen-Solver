@@ -31,7 +31,7 @@ This project was developed in **Apache NetBeans 22** and is a **Maven project** 
 
 ## Screenshots:
 
-- **Chess GUI**
+### 1. Chess GUI
   
   This is for N = 15 only for BT, the higher the N size will accumulate for the time taken to get a solution.
   
@@ -45,7 +45,7 @@ This is for N = 50 for GA, however the highest I have tested is N = 1000, that g
 
 -----
 
-- **BT vs GA Analysis**  
+### 2. BT vs GA Analysis 
 
 Racing Done for N = 15.
 
@@ -53,7 +53,7 @@ Racing Done for N = 15.
   
 ---
 
-- **Genetic Algorithm Analysis**  
+### 3. Genetic Algorithm Analysis
 
 This analysis is for N = 100
 
