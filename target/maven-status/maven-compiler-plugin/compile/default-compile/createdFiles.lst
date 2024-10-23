@@ -1,0 +1,11 @@
+com\nqueen\Main.class
+com\nqueen\SolverGUI.class
+com\nqueen\BackTrackingAlgorithm.class
+com\nqueen\AlgorithmRace.class
+com\nqueen\EmpiricalTesting.class
+com\nqueen\SolverGUI$ControlPanel$1.class
+com\nqueen\SolverGUI$DisplayPanel.class
+com\nqueen\SolverGUI$ControlPanel.class
+com\nqueen\SolverGUI$ControlPanel$2.class
+com\nqueen\GraphGA.class
+com\nqueen\GeneticAlgorithm.class
