@@ -32,12 +32,18 @@ This project was developed in **Apache NetBeans 22** and is a **Maven project** 
 ## Screenshots:
 
 - **Game GUI**  
+
   ![Game GUI Screenshot](screenshots/BT_15.png)
-  test
+
+  This is for N = 15 only for BT, the higher the N size will accumulate for the time taken to get a solution.
+
 ![Game GUI Screenshot](screenshots/GA_50.png)
-test
+
+This is for N = 50 for GA, however the highest I have tested is N = 1000. Additionally sometimes it does not return a solution.
+
 - **BT vs GA Analysis**  
   ![Genetic Algorithm Screenshot](screenshots/race.png)
   
+
 - **Genetic Algorithm Analysis**  
   ![Genetic Algorithm Screenshot](screenshots/GA_100.png)
