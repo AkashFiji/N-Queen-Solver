@@ -1,15 +1,43 @@
-CS214 Assignment Two
---------------------
-This assignment was made in 'Apache Netbeans - 22'.
-This is a 'Maven project' that runs in 'Java 22'
+# CS214 Assignment Two
 
-Follow this steps to effectively run the program.
-1. Unzip the folder.
-2. Open project in Netbeans.
-3. CLean and Build with Dependency.
-4. Run the Main Java file.
-5. Follow the Instructions in the menu.
+This project was developed in **Apache NetBeans 22** and is a **Maven project** that runs with **Java 22**.
 
+## How to Run the Program:
 
-Note:	Output Results is saved in 'N-Queen-CS214/'. Make sure to open the folder where you have saved the project folder.
-	'GraphGA' was a extra java file made by us to analyse the Genetic algorithm only (this is not assessed), this was for our research only.
+1. **Unzip the Folder**:  
+   Extract the provided zip file containing the project.
+
+2. **Open the Project** in NetBeans:  
+   Launch NetBeans and load the unzipped project into the IDE.
+
+3. **Clean and Build with Dependencies**:  
+   Make sure to clean the project and build it with all the necessary dependencies before running.
+
+4. **Run the Main Java File**:  
+   Execute the main file to start the program.
+
+5. **Follow the Instructions in the Menu**:  
+   The program will guide you through the menu options. Follow the on-screen instructions to proceed.
+
+## Output Results:
+
+- The output results are saved in the **`N-Queen-CS214/`** folder.
+- Ensure that you open this folder in the directory where you saved the project files.
+
+## Additional File:
+
+- **`GraphGA.java`** is an extra file created for analyzing the Genetic Algorithm. This file was developed for research purposes and is **not part of the assessed assignment**.
+
+---
+
+## Screenshots:
+
+- **Game GUI**  
+  ![Game GUI Screenshot](screenshots/BT_15.png)
+![Game GUI Screenshot](screenshots/GA_50.png)
+
+- **BT vs GA Analysis**  
+  ![Genetic Algorithm Screenshot](screenshots/race.png)
+  
+- **Genetic Algorithm Analysis**  
+  ![Genetic Algorithm Screenshot](screenshots/GA_100.png)
