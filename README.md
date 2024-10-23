@@ -47,6 +47,8 @@ This is for N = 50 for GA, however the highest I have tested is N = 1000, that g
 
 - **BT vs GA Analysis**  
 
+Racing Done for N = 15.
+
   ![Genetic Algorithm Screenshot](screenshots/race.png)
   
 ---
